@@ -32,3 +32,14 @@ To run the notebook, you need the following:
 
 3. Internet Access: To download model weights (yolo11n.pt and sam2_b.pt) and required libraries.
 
+# Acknowledgments
+
+This project follows the tutorial YOLO11 and SAM2 for Custom Instance Segmentation by Code With Arohi Hindi.
+
+The ultralytics library is used for YOLO 11 implementation.
+
+The segment-anything library is used for SAM2 implementation.
+
+Contact
+
+For questions or issues, please open an issue in this repository or contact me at the email ahamdkhanmarwat8@gmail.com.
