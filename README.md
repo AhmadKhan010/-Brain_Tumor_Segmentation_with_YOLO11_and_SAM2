@@ -40,6 +40,6 @@ The ultralytics library is used for YOLO 11 implementation.
 
 The segment-anything library is used for SAM2 implementation.
 
-Contact
+# Contact
 
 For questions or issues, please open an issue in this repository or contact me at the email ahamdkhanmarwat8@gmail.com.
